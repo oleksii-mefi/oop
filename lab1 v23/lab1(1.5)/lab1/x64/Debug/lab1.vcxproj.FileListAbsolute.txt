@@ -1,0 +1,6 @@
+C:\Users\komol\source\repos\lab1\lab1\x64\Debug\lab1.vcxproj.AssemblyReference.cache
+C:\Users\komol\source\repos\lab1\lab1\x64\Debug\lab1.MyForm.resources
+C:\Users\komol\source\repos\lab1\lab1\x64\Debug\lab1.vcxproj.GenerateResource.cache
+C:\Users\komol\OneDrive\Desktop\lab1(1.5)\lab1\x64\Debug\lab1.vcxproj.AssemblyReference.cache
+C:\Users\komol\OneDrive\Desktop\lab1(1.5)\lab1\x64\Debug\lab1.MyForm.resources
+C:\Users\komol\OneDrive\Desktop\lab1(1.5)\lab1\x64\Debug\lab1.vcxproj.GenerateResource.cache
