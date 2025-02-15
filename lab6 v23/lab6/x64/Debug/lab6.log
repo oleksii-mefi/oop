@@ -1,0 +1,25 @@
+﻿  Checksum.cpp
+C:\Users\komol\source\repos\lab6\lab6\Checksum.cpp(11,22): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+      C:\Users\komol\source\repos\lab6\lab6\Checksum.cpp(11,22):
+      the template instantiation context (the oldest one first) is
+          C:\Users\komol\source\repos\lab6\lab6\Checksum.cpp(21,29):
+          see reference to class template instantiation 'Checksum<int>' being compiled
+          C:\Users\komol\source\repos\lab6\lab6\Checksum.cpp(9,36):
+          while compiling class template member function 'int Checksum<int>::calculate(void) const'
+  
+C:\Users\komol\source\repos\lab6\lab6\Checksum.cpp(10,32): warning C4244: 'argument': conversion from 'const T' to 'unsigned __int64', possible loss of data
+C:\Users\komol\source\repos\lab6\lab6\Checksum.cpp(10,32): warning C4244:         with
+C:\Users\komol\source\repos\lab6\lab6\Checksum.cpp(10,32): warning C4244:         [
+C:\Users\komol\source\repos\lab6\lab6\Checksum.cpp(10,32): warning C4244:             T=float
+C:\Users\komol\source\repos\lab6\lab6\Checksum.cpp(10,32): warning C4244:         ]
+      C:\Users\komol\source\repos\lab6\lab6\Checksum.cpp(10,32):
+      the template instantiation context (the oldest one first) is
+          C:\Users\komol\source\repos\lab6\lab6\Checksum.cpp(23,31):
+          see reference to class template instantiation 'Checksum<float>' being compiled
+          C:\Users\komol\source\repos\lab6\lab6\Checksum.cpp(9,36):
+          while compiling class template member function 'int Checksum<float>::calculate(void) const'
+  
+  lab6.cpp
+  SelectionSort.cpp
+  Generating Code...
+  lab6.vcxproj -> C:\Users\komol\source\repos\lab6\x64\Debug\lab6.exe
