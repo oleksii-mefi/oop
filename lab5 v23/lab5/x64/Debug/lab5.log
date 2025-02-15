@@ -1,0 +1,167 @@
+﻿  Parallelepiped.cpp
+  Pyramid.cpp
+C:\Users\komol\source\repos\lab5\lab5\Shape.h(9,5): error C2059: syntax error: '/'
+  (compiling source file 'Parallelepiped.cpp')
+  
+C:\Users\komol\source\repos\lab5\lab5\Shape.h(9,39): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Parallelepiped.cpp')
+  
+C:\Users\komol\source\repos\lab5\lab5\Shape.h(10,5): error C2059: syntax error: '/'
+  (compiling source file 'Parallelepiped.cpp')
+  
+C:\Users\komol\source\repos\lab5\lab5\Shape.h(10,35): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Parallelepiped.cpp')
+  
+C:\Users\komol\source\repos\lab5\lab5\Shape.h(11,5): error C2059: syntax error: '/'
+  (compiling source file 'Parallelepiped.cpp')
+  
+C:\Users\komol\source\repos\lab5\lab5\Shape.h(11,23): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'Parallelepiped.cpp')
+  
+C:\Users\komol\source\repos\lab5\lab5\Parallelepiped.h(11,12): error C3668: 'Parallelepiped::volume': method with override specifier 'override' did not override any base class methods
+  (compiling source file 'Parallelepiped.cpp')
+  
+C:\Users\komol\source\repos\lab5\lab5\Parallelepiped.h(12,10): error C3668: 'Parallelepiped::show': method with override specifier 'override' did not override any base class methods
+  (compiling source file 'Parallelepiped.cpp')
+  
+C:\Users\komol\source\repos\lab5\lab5\Shape.h(9,5): error C2059: syntax error: '/'
+  (compiling source file 'Pyramid.cpp')
+  
+C:\Users\komol\source\repos\lab5\lab5\Shape.h(9,39): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Pyramid.cpp')
+  
+C:\Users\komol\source\repos\lab5\lab5\Shape.h(10,5): error C2059: syntax error: '/'
+  (compiling source file 'Pyramid.cpp')
+  
+C:\Users\komol\source\repos\lab5\lab5\Shape.h(10,35): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Pyramid.cpp')
+  
+C:\Users\komol\source\repos\lab5\lab5\Shape.h(11,5): error C2059: syntax error: '/'
+  (compiling source file 'Pyramid.cpp')
+  
+C:\Users\komol\source\repos\lab5\lab5\Shape.h(11,23): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'Pyramid.cpp')
+  
+C:\Users\komol\source\repos\lab5\lab5\Pyramid.h(11,12): error C3668: 'Pyramid::volume': method with override specifier 'override' did not override any base class methods
+  (compiling source file 'Pyramid.cpp')
+  
+C:\Users\komol\source\repos\lab5\lab5\Pyramid.h(12,10): error C3668: 'Pyramid::show': method with override specifier 'override' did not override any base class methods
+  (compiling source file 'Pyramid.cpp')
+  
+  Shape.cpp
+C:\Users\komol\source\repos\lab5\lab5\Shape.h(9,5): error C2059: syntax error: '/'
+  (compiling source file 'Shape.cpp')
+  
+C:\Users\komol\source\repos\lab5\lab5\Shape.h(9,39): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Shape.cpp')
+  
+C:\Users\komol\source\repos\lab5\lab5\Shape.h(10,5): error C2059: syntax error: '/'
+  (compiling source file 'Shape.cpp')
+  
+C:\Users\komol\source\repos\lab5\lab5\Shape.h(10,35): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Shape.cpp')
+  
+C:\Users\komol\source\repos\lab5\lab5\Shape.h(11,5): error C2059: syntax error: '/'
+  (compiling source file 'Shape.cpp')
+  
+C:\Users\komol\source\repos\lab5\lab5\Shape.h(11,23): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'Shape.cpp')
+  
+  Sphere.cpp
+C:\Users\komol\source\repos\lab5\lab5\Shape.h(9,5): error C2059: syntax error: '/'
+  (compiling source file 'Sphere.cpp')
+  
+C:\Users\komol\source\repos\lab5\lab5\Shape.h(9,39): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Sphere.cpp')
+  
+C:\Users\komol\source\repos\lab5\lab5\Shape.h(10,5): error C2059: syntax error: '/'
+  (compiling source file 'Sphere.cpp')
+  
+C:\Users\komol\source\repos\lab5\lab5\Shape.h(10,35): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Sphere.cpp')
+  
+C:\Users\komol\source\repos\lab5\lab5\Shape.h(11,5): error C2059: syntax error: '/'
+  (compiling source file 'Sphere.cpp')
+  
+C:\Users\komol\source\repos\lab5\lab5\Shape.h(11,23): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'Sphere.cpp')
+  
+C:\Users\komol\source\repos\lab5\lab5\Sphere.h(12,12): error C3668: 'Sphere::volume': method with override specifier 'override' did not override any base class methods
+  (compiling source file 'Sphere.cpp')
+  
+C:\Users\komol\source\repos\lab5\lab5\Sphere.h(13,10): error C3668: 'Sphere::show': method with override specifier 'override' did not override any base class methods
+  (compiling source file 'Sphere.cpp')
+  
+  Tetrahedron.cpp
+C:\Users\komol\source\repos\lab5\lab5\Shape.h(9,5): error C2059: syntax error: '/'
+  (compiling source file 'Tetrahedron.cpp')
+  
+C:\Users\komol\source\repos\lab5\lab5\Shape.h(9,39): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Tetrahedron.cpp')
+  
+C:\Users\komol\source\repos\lab5\lab5\Shape.h(10,5): error C2059: syntax error: '/'
+  (compiling source file 'Tetrahedron.cpp')
+  
+C:\Users\komol\source\repos\lab5\lab5\Shape.h(10,35): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Tetrahedron.cpp')
+  
+C:\Users\komol\source\repos\lab5\lab5\Shape.h(11,5): error C2059: syntax error: '/'
+  (compiling source file 'Tetrahedron.cpp')
+  
+C:\Users\komol\source\repos\lab5\lab5\Shape.h(11,23): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'Tetrahedron.cpp')
+  
+C:\Users\komol\source\repos\lab5\lab5\Tetrahedron.h(12,12): error C3668: 'Tetrahedron::volume': method with override specifier 'override' did not override any base class methods
+  (compiling source file 'Tetrahedron.cpp')
+  
+C:\Users\komol\source\repos\lab5\lab5\Tetrahedron.h(13,10): error C3668: 'Tetrahedron::show': method with override specifier 'override' did not override any base class methods
+  (compiling source file 'Tetrahedron.cpp')
+  
+  lab5.cpp
+C:\Users\komol\source\repos\lab5\lab5\Shape.h(9,5): error C2059: syntax error: '/'
+  (compiling source file 'lab5.cpp')
+  
+C:\Users\komol\source\repos\lab5\lab5\Shape.h(9,39): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'lab5.cpp')
+  
+C:\Users\komol\source\repos\lab5\lab5\Shape.h(10,5): error C2059: syntax error: '/'
+  (compiling source file 'lab5.cpp')
+  
+C:\Users\komol\source\repos\lab5\lab5\Shape.h(10,35): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'lab5.cpp')
+  
+C:\Users\komol\source\repos\lab5\lab5\Shape.h(11,5): error C2059: syntax error: '/'
+  (compiling source file 'lab5.cpp')
+  
+C:\Users\komol\source\repos\lab5\lab5\Shape.h(11,23): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'lab5.cpp')
+  
+C:\Users\komol\source\repos\lab5\lab5\Parallelepiped.h(11,12): error C3668: 'Parallelepiped::volume': method with override specifier 'override' did not override any base class methods
+  (compiling source file 'lab5.cpp')
+  
+C:\Users\komol\source\repos\lab5\lab5\Parallelepiped.h(12,10): error C3668: 'Parallelepiped::show': method with override specifier 'override' did not override any base class methods
+  (compiling source file 'lab5.cpp')
+  
+C:\Users\komol\source\repos\lab5\lab5\Pyramid.h(11,12): error C3668: 'Pyramid::volume': method with override specifier 'override' did not override any base class methods
+  (compiling source file 'lab5.cpp')
+  
+C:\Users\komol\source\repos\lab5\lab5\Pyramid.h(12,10): error C3668: 'Pyramid::show': method with override specifier 'override' did not override any base class methods
+  (compiling source file 'lab5.cpp')
+  
+C:\Users\komol\source\repos\lab5\lab5\Tetrahedron.h(12,12): error C3668: 'Tetrahedron::volume': method with override specifier 'override' did not override any base class methods
+  (compiling source file 'lab5.cpp')
+  
+C:\Users\komol\source\repos\lab5\lab5\Tetrahedron.h(13,10): error C3668: 'Tetrahedron::show': method with override specifier 'override' did not override any base class methods
+  (compiling source file 'lab5.cpp')
+  
+C:\Users\komol\source\repos\lab5\lab5\Sphere.h(12,12): error C3668: 'Sphere::volume': method with override specifier 'override' did not override any base class methods
+  (compiling source file 'lab5.cpp')
+  
+C:\Users\komol\source\repos\lab5\lab5\Sphere.h(13,10): error C3668: 'Sphere::show': method with override specifier 'override' did not override any base class methods
+  (compiling source file 'lab5.cpp')
+  
+C:\Users\komol\source\repos\lab5\lab5\lab5.cpp(18,16): error C2039: 'show': is not a member of 'Shape'
+      C:\Users\komol\source\repos\lab5\lab5\Shape.h(7,7):
+      see declaration of 'Shape'
+  
+  Generating Code...
